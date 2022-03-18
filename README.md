@@ -14,7 +14,7 @@ to install these libraries we type these commands
 
 The project contains two class :
 -	Main class which contains an infinite loop for real time streaming
--	Snake game class which allows to handle the length snake, score and the position donut
+-	Snake game class which allows us to handle the length snake, score and the random position donut
 
 # The video explanation
 

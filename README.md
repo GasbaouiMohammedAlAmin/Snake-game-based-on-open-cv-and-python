@@ -4,4 +4,6 @@ In this project i share with you a computer vision project which is a snake game
 
 When the head hit the body snake i lost , to restart the game again i press r button in the key borad.
 
+![](screenshotSnakeProject.JPG)
+
 

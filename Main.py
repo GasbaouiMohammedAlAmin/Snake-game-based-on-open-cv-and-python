@@ -18,7 +18,7 @@ while True:
     success , img=cap.read();
     img=cv2.flip(img,1)
     hands,img=detector.findHands(img,flipType =False)
-    if hands:# if i detect al least one hand
+    if hands:# if i detect at least one hand
         lmList=hands[0]["lmList"]
         pointIndex=lmList[8][0:2]
         img=game.update(img,pointIndex)# to update the score and the length snake

@@ -12,4 +12,10 @@ to install these libraries we type these commands
 -	Pip install python mediapipe (to determine the hand and the finger position)
 -	Pip install python cvzone (to show the score and final result after you lose)
 
+The project contains two class :
+-	Main class which contains an infinite loop for real time streaming
+-	Snake game class which allows to handle the length snake, score and the position donut
+
+# The video explanation
+
 

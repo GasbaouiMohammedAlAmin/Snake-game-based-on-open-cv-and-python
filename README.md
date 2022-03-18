@@ -7,7 +7,7 @@ When the head hit the body snake i lost , to restart the game again i press r bu
 ![](screenshotSnakeProject.JPG)
 
 # The important libraries
-to install these libraries we type these commands
+to install these libraries we type these commands :
 -	Pip install python open-cv (to deal with the real time streaming)
 -	Pip install python mediapipe (to determine the hand and the finger position)
 -	Pip install python cvzone (to show the score and final result after you lose)

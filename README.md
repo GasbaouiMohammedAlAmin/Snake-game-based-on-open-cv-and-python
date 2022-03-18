@@ -1,4 +1,4 @@
-# Snake-game-based-on-open-cv-and-python
+# Snake game based on openCv and python using libraries(Mediapipe and Cvzone)
 In this project i share with you a computer vision project which is a snake game.the finger of my hand will be the head , in each time when i eat the donut the score will incremented and the length size augmented.
 
 
